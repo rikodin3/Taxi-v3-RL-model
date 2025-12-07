@@ -54,3 +54,7 @@ Further a good trade-off between variance and bias is achieved using GAE and adv
 - Uses multi-step TD errors
 - Propagates long-horizon information more effectively
 - Learns pickup → navigate → drop-off paths faster
+
+Sources used for learning in addition to the papers
+- [Hugging Face Course](https://huggingface.co/learn/deep-rl-course/en/unit1/introduction)
+- [ICLR Blog](https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/)
